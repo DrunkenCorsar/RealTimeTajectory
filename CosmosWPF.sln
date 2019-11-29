@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosWPF", "CosmosWPF\CosmosWPF.csproj", "{8406044E-0AC9-47F8-BD5E-CB2F73926B8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8406044E-0AC9-47F8-BD5E-CB2F73926B8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8406044E-0AC9-47F8-BD5E-CB2F73926B8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8406044E-0AC9-47F8-BD5E-CB2F73926B8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8406044E-0AC9-47F8-BD5E-CB2F73926B8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6C793C2-408A-475F-A7C9-95BDEC7355CF}
+	EndGlobalSection
+EndGlobal

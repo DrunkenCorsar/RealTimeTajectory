@@ -1,0 +1,15 @@
+C:\Users\maksy\source\repos\CosmosWPF\CosmosWPF\bin\Debug\CosmosWPF.exe.config
+C:\Users\maksy\source\repos\CosmosWPF\CosmosWPF\bin\Debug\CosmosWPF.exe
+C:\Users\maksy\source\repos\CosmosWPF\CosmosWPF\bin\Debug\CosmosWPF.pdb
+C:\Users\maksy\source\repos\CosmosWPF\CosmosWPF\obj\Debug\CosmosWPF.csprojResolveAssemblyReference.cache
+C:\Users\maksy\source\repos\CosmosWPF\CosmosWPF\obj\Debug\MainWindow.g.cs
+C:\Users\maksy\source\repos\CosmosWPF\CosmosWPF\obj\Debug\App.g.cs
+C:\Users\maksy\source\repos\CosmosWPF\CosmosWPF\obj\Debug\CosmosWPF_MarkupCompile.cache
+C:\Users\maksy\source\repos\CosmosWPF\CosmosWPF\obj\Debug\CosmosWPF_MarkupCompile.lref
+C:\Users\maksy\source\repos\CosmosWPF\CosmosWPF\obj\Debug\MainWindow.baml
+C:\Users\maksy\source\repos\CosmosWPF\CosmosWPF\obj\Debug\CosmosWPF.g.resources
+C:\Users\maksy\source\repos\CosmosWPF\CosmosWPF\obj\Debug\CosmosWPF.Properties.Resources.resources
+C:\Users\maksy\source\repos\CosmosWPF\CosmosWPF\obj\Debug\CosmosWPF.csproj.GenerateResource.Cache
+C:\Users\maksy\source\repos\CosmosWPF\CosmosWPF\obj\Debug\CosmosWPF.csproj.CoreCompileInputs.cache
+C:\Users\maksy\source\repos\CosmosWPF\CosmosWPF\obj\Debug\CosmosWPF.exe
+C:\Users\maksy\source\repos\CosmosWPF\CosmosWPF\obj\Debug\CosmosWPF.pdb
